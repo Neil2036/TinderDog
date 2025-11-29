@@ -84,6 +84,10 @@ body {
   font-size: 14px;
 }
 
+.form-control::placeholder {
+  color: #ffffff;
+}
+
 .form-control:focus {
   background-color: #1a1a1a;
   border-color: #ef8172;
